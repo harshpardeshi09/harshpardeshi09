@@ -12,7 +12,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
 </div>
 
-### 🦦About Me:
+### 🦦 About Me:
 
 - 🎓 I'm Pre-final year CSE Student 
 - 🔭 I’m currently working on Web Development
@@ -22,7 +22,7 @@
 
 <br>
 
-## 🌐Socials:
+## 🌐 Socials:
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 <br>
 
-## 🎖️GSSoC'24 Extd Badges:
+## 🎖️ GSSoC'24 Extd Badges:
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
