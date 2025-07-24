@@ -16,9 +16,9 @@
 
 - 🎓 I'm Pre-final year CSE Student 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently Cyber stuff
 - 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 Goals: Learn DevOps And strengthen DSA
+- 🥅 Goals: Land Cyber job
 
 <br>
 
